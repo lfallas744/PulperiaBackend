@@ -1,6 +1,6 @@
-﻿namespace PulperiaBackend.Modelo.Clases
+﻿namespace PulperiaBackend.Modelo.DTO
 {
-    public class Usuario
+    public class UsuarioBasicoDTO
     {
         #region Atributos
         public int UserId { get; set; }
