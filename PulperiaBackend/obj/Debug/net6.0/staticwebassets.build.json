@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aAn7NU3Licun+kAcKHRHwRarVvakAGj2+v/30iHsIbw=",
+  "Source": "PulperiaBackend",
+  "BasePath": "_content/PulperiaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
